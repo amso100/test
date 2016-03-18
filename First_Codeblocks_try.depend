@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1457896848 source:/home/amit/Documents/C Programs/First_Codeblocks_try/main.c
+	<stdio.h>
+	<stdlib.h>
+
